@@ -12,6 +12,10 @@
       .coming-soon { font-size: 4em }
       article.ptsd { margin: 2em 0; }
       .ptsd h1 { margin-top: -10px;}
+      #ptsd_logo_home { width: 100%; max-width: 500px; }
+      article.ptsd div { }
+      article.ptsd .supporting { }
+      article.ptsd .ptsd-logo {  }
       footer { text-align: center; font-size: small; }
     </style>
   </head>
@@ -26,12 +30,14 @@
       <h2 class="coming-soon"> Coming soon</h2>
 
       <article class="ptsd">
-        <h3>Raising money to support:</h3>
-        <h1>
+        <div class="supporting">
+          <h3>All proceeds to go support:</h3>
+        </div>
+        <div class="ptsd-logo">
           <a href="http://permissiontostartdreaming.org/" target="_blank">
-            Permission to start Dreaming
+            <img src="images/PTSD_logo_small.png" alt="Permission to Start Dreaming logo" id="ptsd_logo_home">
           </a>
-        </h1>
+        </div>
       </article>
 
     </section>
