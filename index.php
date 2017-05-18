@@ -32,7 +32,7 @@
 
       <h2 class="coming-soon" style="margin-bottom: -15px;"> Coming August 12, 2017</h2>
 
-      <h3>Gig Harbor Sportsman's Club<br>
+      <h3>Gig Harbor Sportsman's Club!<br>
       <small>9721 Burnham Drive NW</small><br>
       FREE PARKING
       </h3>
