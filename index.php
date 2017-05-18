@@ -17,6 +17,7 @@
       article.ptsd div { }
       article.ptsd .supporting { }
       article.ptsd .ptsd-logo {  }
+      .performers { background-color: #000; color: #fff; width: 100%; margin: 0; padding: 0; margin-left: -10; margin-right: -10;}
       footer { text-align: center; font-size: small; }
     </style>
   </head>
@@ -30,8 +31,36 @@
       </div>
 
       <h2 class="coming-soon" style="margin-bottom: -15px;"> Coming August 12, 2017</h2>
-      <p style="font-weight:bold;font-size: 20px;">More information to follow</p>
 
+      <h3>Gig Harbor Sportsman's Club<br>
+      <small>9721 Burnham Drive NW</small><br>
+      FREE PARKING
+      </h3>
+
+      <h3>12 Noon - 9PM</h3>
+
+      <div class="performers" >
+      <h2>
+        Featured Performers:
+      </h2>
+        <ul>
+          <li>Kal David and the Real Deal Band feature Lauri Bono</li>
+          <li>The Shy Boys</li>
+          <li>Mark Hurwitz &amp; Gin Creek</li>
+          <li>The Twang Junkies</li>
+          <li>Jim Valley Blues Band</li>
+          <li>The Whirlies</li>
+          <li>King Kong Beaux</li>
+        </ul>
+    </div>
+
+<hr>
+<div>Ticket outlets and details coming soon</div>
+
+
+
+
+      <hr>
       <article class="ptsd">
         <div class="supporting">
           <h3>All proceeds to go support:</h3>
@@ -47,5 +76,7 @@
     <footer>
       &copy; copyright <?php echo date(Y) ?>, All Rights Reserved.
     </footer>
+<!--<p style="font-weight:bold;font-size: 20px;">More information to follow</p> -->
+
   </body>
 </html>
