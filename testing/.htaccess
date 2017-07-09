@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "testing"
+AuthUserFile "/home/rockinrnb/.htpasswds/public_html/testing/passwd"
+require valid-user

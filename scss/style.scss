@@ -1,0 +1,212 @@
+/*********************************************
+Core Layout
+********************************************/
+
+body {
+  height:100vh;
+  font-family: 'Lato', sans-serif;
+}
+
+section {
+  margin: 0 auto;
+  width:100%;
+  text-align:center;
+}
+
+
+
+/*********************************************
+Top Title
+********************************************/
+
+.home-image {
+  text-align:center;margin:0 auto; height: 70vh;
+}
+
+.home-image img {
+  height: 100%;
+}
+
+.coming-soon {
+  font-size: 3em;
+}
+
+
+
+/*********************************************
+Article Content
+********************************************/
+
+article.main-sponsor{
+  background-color: #ed1c24;
+  color: #fff;
+  width: 100%;
+  margin: 0;
+  margin-top: 1em;
+  padding: 0;
+
+  h2 {
+    background-color: #ed1c24;
+    padding: 10px 0;
+    margin-top: -16px;
+  }
+}
+
+article.ptsd {
+  margin: 2em 0;
+}
+
+article.where {
+  background-color: #ed1c24;
+  color: #fff;
+  width: 100%;
+  margin: 0;
+  margin-top: 1em;
+  padding: 0;
+  font-size: 2em;
+  padding-top: .05em;
+  padding-bottom: .05em;
+}
+
+article.who {
+  background-color: #000;
+  color: #fff;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+  ul.featuring {
+    list-style: none;
+    li {
+      font-size: 1.2em;
+      line-height: 1.5;
+  }
+}
+
+.also-featuring {
+  text-align: left;
+}
+
+.note {
+  color: #9bd7d5;
+  margin-right: 10px;
+}
+
+article.how {
+  background-color: #ed1c24;
+  color: #fff;
+  width: 100%;
+  margin: 0;
+  margin-top: 2em;
+  padding: 0;
+  min-height: 300px;
+  padding-top: 5em;
+  padding-bottom: 0;
+
+  .outlet-vendors {
+    line-height: 1.5;
+    list-style: none;
+
+    li {
+      font-size: 1.5em;
+    }
+  }
+}
+
+.ptsd h1 {
+  margin-top: -10px;
+}
+
+#ptsd_logo_home {
+  width: 100%; max-width: 300px;
+}
+
+article.ptsd div { }
+
+article.ptsd .supporting{ }
+article.ptsd .ptsd-logo {  }
+
+article.what {
+  ul.activities {
+    list-style: none;
+    line-height: 1.6;
+    li {
+      font-size: 2em;
+    }
+  }
+}
+
+article.sponsors {
+  .flex-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+
+  }
+  .flex-grid .col {
+    width: 200px;
+    padding: 1em;
+  }
+  .flex-grid .col img {
+    width: 100%;
+  }
+}
+
+footer {
+  text-align: center;
+  font-size: small;
+  background-color: black;
+  color: white;
+  min-height: 200px;
+  padding: 2em;
+}
+
+/*********************************************
+Sidebar
+*********************************************/
+
+@media only screen and (min-width: 1025px) {
+  #right {
+    float: right;
+    width: 20%;
+    background-color: rgba(255,255,255,.5);
+    border-radius: 10%;
+    padding: 1em;
+    margin-top: 3em;
+    position: fixed;
+    right: 2em;
+    top: 0;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #right {
+    float: none;
+    width: 100%;
+    background-color: rgba(255,255,255,.5);
+    border-radius: 10%;
+    padding: 1em;
+    margin-top: 3em;
+    position: relative;
+    right: 2em;
+    margin: 0 auto;
+    text-align: center;
+
+  }
+}
+
+
+
+/*********************************************
+Helpers
+*********************************************/
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

@@ -8,8 +8,8 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
     <style>
-      #kal-david {width: 30%;}
-      #kal-david img {float: left; width: 100%; padding: 2em;margin-bottom: 30px;}
+      #kal-david {width: 30%}
+      #kal-david img {float: left; width: 100%; padding: 2em;}
       .featured-performer {margin-top: 2em; text-align: left;}
       .kal-david-name
       .kal-name {font-family: 'Cookie', cursive; font-weight: normal; font-size: 2.5em;}
@@ -66,7 +66,6 @@
             <li><span class="note"><i class="fa fa-music fa-sm"></i></span>Jim Valley Blues Band</li>
             <li><span class="note"><i class="fa fa-music fa-sm"></i></span>The Whirlies</li>
             <li><span class="note"><i class="fa fa-music fa-sm"></i></span>King Kom Beaux</li>
-            <li><span class="note"><i class="fa fa-music fa-sm"></i></span>Red House</li>
           </ul>
         </div>
 
