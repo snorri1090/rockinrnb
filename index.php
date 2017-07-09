@@ -37,6 +37,8 @@
         <h2>12 Noon - 9PM</h2>
       </article>
 
+      <h1>“Best thing to hit the Harbor this summer!"</h1>
+
       <article class="who clearfix">
         <div id="kal-david">
           <img src="images/kalDavid-bw.png" alt="Kal David">
@@ -49,11 +51,10 @@
           </h2>
 
           <h1 class="kal-david-name">
-            <span class="kal-name">Kal David</span>
-            <br>
-            and the Real Deal Band
-            <br>
-            featuring Lauri Bono
+            <span class="kal-name">Kal David 	&bull;</span>
+            <span class="kal-name">Lauri Bono</span><br>
+            and the Real Deal Band <br>
+            <a href="band-bio-kal-lauri.html" class="btn">Band Bio</a>
           </h1>
         </div>
 
@@ -101,6 +102,9 @@
           <li>Millville Pizza: <a callto:253-514-8626><i class="fa fa-phone"></i> (253) 514-8626</a></li>
         </ul>
         <br>
+        <h1>Children under 12 free</h1>
+        <br>
+
       </article>
 
       <article class="sponsors">
@@ -112,7 +116,7 @@
           <div class="col"><img src="images/logos/harbor-barber.png" alt=""></div>
           <div class="col"><img src="images/logos/mac-n-jacks-african.png" alt=""></div>
           <div class="col"><img src="images/logos/mac-n-jacks.png" alt=""></div>
-          <div class="col"><img src="images/logos/market-watch.png" alt=""></div>
+          <div class="col" style="width: 400px;"><img src="images/logos/market-watch.png" alt=""></div>
           <div class="col"><img src="images/logos/millville-pizza.png" alt=""></div>
           <div class="col"><img src="images/logos/rainier-beer.png" alt=""></div>
           <div class="col"><img src="images/logos/sportsmans-club.png" alt=""></div>
@@ -139,10 +143,13 @@
     <footer>
       &copy; copyright <?php echo date(Y) ?>, Night on the Town Productions. All Rights Reserved.
       <p>
-      <em>Gig Harbor Sportsman's Club reserves the right to film and record all participants and spectators for the use of promotional videos and publications.</em>
-      <h2>Info: Mike Mitchell (253) 549-6294</h2>
+        <em>Gig Harbor Sportsman's Club reserves the right to film and record all participants and spectators for the use of promotional videos and publications.</em>
+        <h2>Info: Mike Mitchell (253) 549-6294</h2>
+      </p>
     </footer>
-  </p>
+
+
+
 <!--<p style="font-weight:bold;font-size: 20px;">More information to follow</p> -->
 
   </body>
