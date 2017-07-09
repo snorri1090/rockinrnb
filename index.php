@@ -37,7 +37,7 @@
         <h2>12 Noon - 9PM</h2>
       </article>
 
-      <h1>“Best thing to hit the Harbor this summer!"</h1>
+      <h1>"Best thing to hit the Harbor this summer!"</h1>
 
       <article class="who clearfix">
         <div id="kal-david">
@@ -102,7 +102,7 @@
           <li>Millville Pizza: <a callto:253-514-8626><i class="fa fa-phone"></i> (253) 514-8626</a></li>
         </ul>
         <br>
-        <h1>Children under 12 free</h1>
+        <h1>Children under 12 are free!</h1>
         <br>
 
       </article>
