@@ -1,20 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Gig Harbor's Rockin' Rhythm &amp; Blues Festival</title>
-    <link rel="stylesheet" type="text/css" href="css/normalize.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
-    <style>
-      #kal-david {width: 30%;}
-      #kal-david img {float: left; width: 100%; padding: 2em;margin-bottom: 30px;}
-      .featured-performer {margin-top: 2em; text-align: left;}
-      .kal-david-name
-      .kal-name {font-family: 'Cookie', cursive; font-weight: normal; font-size: 2.5em;}
-    </style>
-  </head>
+  <?php include("includes/head.php") ?>
 
   <body >
     <section>
@@ -37,7 +23,7 @@
         <h2>12 Noon - 9PM</h2>
       </article>
 
-      <h1>"Best thing to hit the Harbor this summer!"</h1>
+      <h1 class="call-out">"Best thing to hit the Harbor this summer!"</h1>
 
       <article class="who clearfix">
         <div id="kal-david">
@@ -53,9 +39,12 @@
           <h1 class="kal-david-name">
             <span class="kal-name">Kal David 	&bull;</span>
             <span class="kal-name">Lauri Bono</span><br>
-            and the Real Deal Band <br>
-            <a href="band-bio-kal-lauri.html" class="btn">Band Bio</a>
+            and the <span class="band-name">Real Deal Band</span>
           </h1>
+          <p>
+            <a href="band-bio-kal-lauri.php" class="btn">Band Bio</a>
+          </p>
+
         </div>
 
         <div class="also-featuring">
@@ -139,18 +128,6 @@
         </div>
       </article>
     </div>
-
-    <footer>
-      &copy; copyright <?php echo date(Y) ?>, Night on the Town Productions. All Rights Reserved.
-      <p>
-        <em>Gig Harbor Sportsman's Club reserves the right to film and record all participants and spectators for the use of promotional videos and publications.</em>
-        <h2>Info: Mike Mitchell (253) 549-6294</h2>
-      </p>
-    </footer>
-
-
-
-<!--<p style="font-weight:bold;font-size: 20px;">More information to follow</p> -->
-
+    <?php include("includes/footer.php"); ?>
   </body>
 </html>
