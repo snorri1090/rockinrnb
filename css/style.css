@@ -64,7 +64,13 @@ ul.featuring {
   list-style: none; }
   ul.featuring li {
     font-size: 1.2em;
-    line-height: 1.5; }
+    line-height: 1.8;
+    margin: 5px 0; }
+    ul.featuring li a {
+      color: white;
+      text-decoration: none; }
+      ul.featuring li a:hover {
+        text-decoration: underline; }
 
 .also-featuring {
   text-align: left; }
@@ -117,6 +123,13 @@ article.sponsors .flex-grid .col img {
 
 .call-out {
   font-size: 4em; }
+
+.drop-down-content {
+  display: none;
+  position: relative;
+  left: 30px;
+  font-size: .7em;
+  padding-right: 10%; }
 
 footer {
   text-align: center;
@@ -179,6 +192,10 @@ Buttons
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none; }
+
+.btn.small {
+  font-size: 14px;
+  padding: 5px 10px; }
 
 /*********************************************
 Helpers
