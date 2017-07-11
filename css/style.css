@@ -208,15 +208,6 @@ Helpers
 /*********************************************
 Internal Stylesheet from home page - fold in
 *********************************************/
-#kal-david {
-  width: 30%; }
-
-#kal-david img {
-  float: left;
-  width: 100%;
-  padding: 2em;
-  margin-bottom: 30px; }
-
 .featured-performer {
   margin-top: 2em;
   text-align: left; }
@@ -231,10 +222,10 @@ Internal Stylesheet from home page - fold in
 Internal Stylesheet from bio page - fold in
 *********************************************/
 #kal-david {
-  width: 30%; }
+  width: 30%;
+  float: left; }
 
 #kal-david img {
-  float: left;
   width: 100%;
   padding: 2em;
   margin-bottom: 30px; }
@@ -252,6 +243,10 @@ Internal Stylesheet from bio page - fold in
   font-family: 'Cookie', cursive;
   font-weight: normal;
   font-size: 2.5em; }
+
+.performers {
+  width: 60%;
+  float: right; }
 
 .band-name {
   font-weight: bold;

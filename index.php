@@ -30,77 +30,79 @@
           <img src="images/kalDavid-bw.png" alt="Kal David">
         </div>
 
-        <div class="featured-performer">
-          <br>
-          <h2>
-            Featured Performer:
-          </h2>
+        <div class="performers">
+          <div class="featured-performer">
+            <br>
+            <h2>
+              Featured Performer:
+            </h2>
 
-          <h1 class="kal-david-name">
-            <span class="kal-name">Kal David 	&bull;</span>
-            <span class="kal-name">Lauri Bono</span><br>
-            and the <span class="band-name">Real Deal Band</span>
-          </h1>
-          <p>
-            <a href="band-bio-kal-lauri.php" class="btn">Band Bio</a>
-          </p>
+            <h1 class="kal-david-name">
+              <span class="kal-name">Kal David 	&bull;</span>
+              <span class="kal-name">Lauri Bono</span><br>
+              and the <span class="band-name">Real Deal Band</span>
+            </h1>
+            <p>
+              <a href="band-bio-kal-lauri.php" class="btn">Band Bio</a>
+            </p>
 
-        </div>
+          </div>
 
-        <div class="also-featuring">
-          <h2>Also Appearing:</h2>
-          <ul class="featuring">
-            <li>
-              <span class="note"><i class="fa fa-music fa-sm"></i></span>
-              <a href="#" class="drop-down">The Shy Boys</a>
-              <div class="drop-down-content" id="band-shy-boys">
-                <p>Gig Harbors own favorite band, full of energy and loaded with talent! They will have you Hoppin' and Jumpin' with a variety of Classic Rock n' Roll tunes. Voted "Best Band" in South Sound Magazine several years running. <a href="http://theshyboys.com" target="_blank">http://theshyboys.com</a><p>
-              </div>
-            </li>
-            <li>
-              <span class="note"><i class="fa fa-music fa-sm"></i></span>
-              <a href="#" class="drop-down">Mark Hurwitz &amp; Gin Creek</a>
-              <div class="drop-down-content" id="mark-hurwitz-gin-creek">
-                <p>Mark and his band are a hard working South Sound band working clubs, shows, special events and more. A "Knock Out" solid group infused with Blues, Funk, Rock and Jazz. You don't want to miss a note of this group! <a href="https://www.reverbnation.com/markhurwitzandgincreek" target="_blank">https://www.reverbnation.com/markhurwitzandgincreek</a><p>
-              </div>
-            </li>
-            <li>
-              <span class="note"><i class="fa fa-music fa-sm"></i></span>
-              <a href="#" class="drop-down">The Twang Junkies</a>
-              <div class="drop-down-content" id="the-twang-junkies">
-                <p>Here is where Classic Country combines with Rock n' Roll along with a heavy dose of "Twang"! You will most definitely be enthralled with this high tension polished group. You won't be sitting still when this group kicks off!<p>
-              </div>
-            </li>
-            <li>
-              <span class="note"><i class="fa fa-music fa-sm"></i></span>
-              <a href="#" class="drop-down">Jim Valley Blues Band</a>
-              <div class="drop-down-content" id="jim-valley-blues-band">
-                <p>A true Renaissance man and a classic music legend in our midst. A veteran professional for over five decades, his music and lyrics come right from life itself. Enjoy Jim and his band as they captivate you with their prolific artistry. This is a "Must Do"! <a href="http://www.jimvalley.com" target="_blank">http://www.jimvalley.com</a><p>
-              </div>
-            </li>
-            <li>
-              <span class="note"><i class="fa fa-music fa-sm"></i></span>
-              <a href="#" class="drop-down">The Whirlies</a>
-              <div class="drop-down-content" id="the-whirlies">
-                <p>Up beat and fast paced, they will put some sizzle into your Summer with a trip back to the 60's and 70's. As much fun to watch as listen. All ears (and eyes) will be on this group, guaranteed to charm!
-<p>
-              </div>
-            </li>
-            <li>
-              <span class="note"><i class="fa fa-music fa-sm"></i></span>
-              <a href="#" class="drop-down">King Kom Beaux</a>
-              <div class="drop-down-content" id="king-kom-beaux">
-                <p>Tap into New Orleans Blues with a Cajun influence. Individually as well as in groups, these guys have represented the Greater Puget Sound and the International Blues Challenge in Memphis over many years. The promise to offer up the Blues, fat and thick! Sa-weet! <a href="https://www.kingkombeaux.com" target="_blank">https://www.kingkombeaux.com</a><p>
-              </div>
-            </li>
-            <li>
-              <span class="note"><i class="fa fa-music fa-sm"></i></span>
-              <a href="#" class="drop-down">Red House</a>
-              <div class="drop-down-content" id="red-house">
-                <p>This power house of four veteran musicians lay down a groove a mile deep and top it off with great vocals. Their unique mix of original music and well chosen cover songs, expressed in their own way, will keep you captivated! <a href="https://redhouseband.net" target="_blank">https://redhouseband.net</a><p>
-              </div>
-            </li>
-          </ul>
+          <div class="also-featuring">
+            <h2>Also Appearing:</h2>
+            <ul class="featuring">
+              <li>
+                <span class="note"><i class="fa fa-music fa-sm"></i></span>
+                <a href="#" class="drop-down">The Shy Boys</a>
+                <div class="drop-down-content" id="band-shy-boys">
+                  <p>Gig Harbors own favorite band, full of energy and loaded with talent! They will have you Hoppin' and Jumpin' with a variety of Classic Rock n' Roll tunes. Voted "Best Band" in South Sound Magazine several years running. <a href="http://theshyboys.com" target="_blank">http://theshyboys.com</a><p>
+                </div>
+              </li>
+              <li>
+                <span class="note"><i class="fa fa-music fa-sm"></i></span>
+                <a href="#" class="drop-down">Mark Hurwitz &amp; Gin Creek</a>
+                <div class="drop-down-content" id="mark-hurwitz-gin-creek">
+                  <p>Mark and his band are a hard working South Sound band working clubs, shows, special events and more. A "Knock Out" solid group infused with Blues, Funk, Rock and Jazz. You don't want to miss a note of this group! <a href="https://www.reverbnation.com/markhurwitzandgincreek" target="_blank">https://www.reverbnation.com/markhurwitzandgincreek</a><p>
+                </div>
+              </li>
+              <li>
+                <span class="note"><i class="fa fa-music fa-sm"></i></span>
+                <a href="#" class="drop-down">The Twang Junkies</a>
+                <div class="drop-down-content" id="the-twang-junkies">
+                  <p>Here is where Classic Country combines with Rock n' Roll along with a heavy dose of "Twang"! You will most definitely be enthralled with this high tension polished group. You won't be sitting still when this group kicks off!<p>
+                </div>
+              </li>
+              <li>
+                <span class="note"><i class="fa fa-music fa-sm"></i></span>
+                <a href="#" class="drop-down">Jim Valley Blues Band</a>
+                <div class="drop-down-content" id="jim-valley-blues-band">
+                  <p>A true Renaissance man and a classic music legend in our midst. A veteran professional for over five decades, his music and lyrics come right from life itself. Enjoy Jim and his band as they captivate you with their prolific artistry. This is a "Must Do"! <a href="http://www.jimvalley.com" target="_blank">http://www.jimvalley.com</a><p>
+                </div>
+              </li>
+              <li>
+                <span class="note"><i class="fa fa-music fa-sm"></i></span>
+                <a href="#" class="drop-down">The Whirlies</a>
+                <div class="drop-down-content" id="the-whirlies">
+                  <p>Up beat and fast paced, they will put some sizzle into your Summer with a trip back to the 60's and 70's. As much fun to watch as listen. All ears (and eyes) will be on this group, guaranteed to charm!
+  <p>
+                </div>
+              </li>
+              <li>
+                <span class="note"><i class="fa fa-music fa-sm"></i></span>
+                <a href="#" class="drop-down">King Kom Beaux</a>
+                <div class="drop-down-content" id="king-kom-beaux">
+                  <p>Tap into New Orleans Blues with a Cajun influence. Individually as well as in groups, these guys have represented the Greater Puget Sound and the International Blues Challenge in Memphis over many years. The promise to offer up the Blues, fat and thick! Sa-weet! <a href="https://www.kingkombeaux.com" target="_blank">https://www.kingkombeaux.com</a><p>
+                </div>
+              </li>
+              <li>
+                <span class="note"><i class="fa fa-music fa-sm"></i></span>
+                <a href="#" class="drop-down">Red House</a>
+                <div class="drop-down-content" id="red-house">
+                  <p>This power house of four veteran musicians lay down a groove a mile deep and top it off with great vocals. Their unique mix of original music and well chosen cover songs, expressed in their own way, will keep you captivated! <a href="https://redhouseband.net" target="_blank">https://redhouseband.net</a><p>
+                </div>
+              </li>
+            </ul>
+          </div>
         </div>
 
       </article>
