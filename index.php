@@ -155,6 +155,7 @@
           <div class="col"><img src="images/logos/rainier-beer.png" alt=""></div>
           <div class="col"><img src="images/logos/sportsmans-club.png" alt=""></div>
           <div class="col"><img src="images/logos/tanglewood.png" alt=""></div>
+          <div class="col"><img src="images/logos/mhm.png" alt=""></div>
         </div>
       </article>
 
