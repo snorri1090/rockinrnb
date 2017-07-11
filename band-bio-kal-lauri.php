@@ -38,8 +38,8 @@
               <p>For more info visit <a href="http://www.kaldavid.com/" window="_blank">KalDavid.com</a></p>
 
               <p>
-                <a href="images/kal-lauri-promo.pdf" window="_blank" class="btn">Tour Info</a>&nbsp;
-                <a href="http://www.kaldavid.com/" window="_blank" class="btn">Website</a></p>
+                <a href="images/kal-lauri-promo.pdf" target="_blank" class="btn">Tour Info</a>&nbsp;
+                <a href="http://www.kaldavid.com/" target="_blank" class="btn">Website</a></p>
             </div>
           </article>
         </div>
