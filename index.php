@@ -26,28 +26,27 @@
       <h1 class="call-out">"Best thing to hit the Harbor this summer!"</h1>
 
       <article class="who clearfix">
+        <div class="featured-performer" style="width:100%;margin-left: 5%;">
+          <br>
+          <h2>
+            Featured Performer:
+          </h2>
+
+          <h1 class="kal-david-name">
+            <span class="kal-name">Kal David 	&bull;</span>
+            <span class="kal-name">Lauri Bono</span><br>
+            and the <span class="band-name">Real Deal Band</span>
+          </h1>
+          <p>
+            <a href="band-bio-kal-lauri.php" class="btn">Band Bio</a>
+          </p>
+
+        </div>
         <div id="kal-david">
-          <img src="images/kalDavid-bw.png" alt="Kal David">
+          <img src="images/kal-lauri-hands.jpg" alt="Kal David and Lauri Bono">
         </div>
 
         <div class="performers">
-          <div class="featured-performer">
-            <br>
-            <h2>
-              Featured Performer:
-            </h2>
-
-            <h1 class="kal-david-name">
-              <span class="kal-name">Kal David 	&bull;</span>
-              <span class="kal-name">Lauri Bono</span><br>
-              and the <span class="band-name">Real Deal Band</span>
-            </h1>
-            <p>
-              <a href="band-bio-kal-lauri.php" class="btn">Band Bio</a>
-            </p>
-
-          </div>
-
           <div class="also-featuring">
             <h2>Also Appearing:</h2>
             <ul class="featuring">

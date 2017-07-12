@@ -27,7 +27,7 @@
 
       <div class="kal-lauri-container">
         <div class="kal-lauri-photo">
-          <img src="images/kal-lauri-hands.jpg" alt="Kal David and Lauri Bono">
+          <img src="images/kal-lauri-2.jpg" alt="Kal David and Lauri Bono">
         </div>
 
         <div class="kal-and-lauri-text">
