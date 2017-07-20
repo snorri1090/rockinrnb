@@ -186,40 +186,6 @@ footer {
 }
 
 /*********************************************
-Sidebar
-*********************************************/
-
-@media only screen and (min-width: 1025px) {
-  #right {
-    float: right;
-    width: 20%;
-    background-color: rgba(255,255,255,.5);
-    border-radius: 10%;
-    padding: 1em;
-    margin-top: 3em;
-    position: fixed;
-    right: 2em;
-    top: 0;
-  }
-}
-
-@media only screen and (max-width: 1024px) {
-  #right {
-    float: none;
-    width: 100%;
-    background-color: rgba(255,255,255,.5);
-    border-radius: 10%;
-    padding: 1em;
-    margin-top: 3em;
-    position: relative;
-    right: 2em;
-    margin: 0 auto;
-    text-align: center;
-
-  }
-}
-
-/*********************************************
 Buttons
 *********************************************/
 
@@ -269,7 +235,12 @@ Helpers
 Internal Stylesheet from home page - fold in
 *********************************************/
 
-.featured-performer {margin-top: 2em; text-align: left;}
+.featured-performer {
+  width:100%;
+  margin-left: 5%;
+  margin-top: 2em;
+  text-align: left;
+}
 .kal-david-name
 .kal-name {font-family: 'Cookie', cursive; font-weight: normal; font-size: 2.5em;}
 
@@ -304,6 +275,16 @@ Internal Stylesheet from bio page - fold in
   font-family: 'Cookie', cursive;
   font-weight: normal;
   font-size: 2.5em;
+}
+
+@media screen and (max-width: 750px) {
+  .kal-name {
+    font-size: 1.5em;
+  }
+
+  .band-name {
+    font-size: 1.2em;
+  }
 }
 
 .performers {
@@ -364,4 +345,90 @@ Internal Stylesheet from bio page - fold in
 .bio-text a:hover {
   color: #fff;
   cursor: pointer;
+}
+
+
+/*********************************************
+Sidebar
+*********************************************/
+
+@media only screen and (min-width: 1025px) {
+  #right {
+    float: right;
+    width: 20%;
+    background-color: rgba(255,255,255,.5);
+    border-radius: 10%;
+    padding: 1em;
+    margin-top: 3em;
+    position: fixed;
+    right: 2em;
+    top: 0;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #right {
+    float: none;
+    width: 100%;
+    background-color: rgba(255,255,255,.5);
+    border-radius: 10%;
+    padding: 1em;
+    margin-top: 3em;
+    position: relative;
+    right: 2em;
+    margin: 0 auto;
+    text-align: center;
+
+  }
+}
+
+/*******************************************
+
+Media queries for mobile
+
+*******************************************/
+
+@media only screen and (max-width: 750px) {
+  .main-sponsor {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .featured-performer {
+    margin-left: 0;
+  }
+
+  .kal-name {
+    font-size: 1.5em;
+  }
+
+  .band-name {
+    font-size: 1.2em;
+  }
+
+  ul.featuring {
+    li {
+      font-size: 1em;
+      line-height: 1.6;
+      margin: 0 0;
+    }
+  }
+
+  ul.featuring,
+  ul.activities,
+  ul.outlet-vendors {
+    padding-left: 0px;
+  }
+
+  //not sure why this is not working
+  a[callto] {
+    font-size: 1em;
+  }
+
+  ul.outlet-vendors li a {
+    font-size: 0.7em;
+  }
+
 }

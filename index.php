@@ -26,7 +26,7 @@
       <h1 class="call-out">"Best thing to hit the Harbor this summer!"</h1>
 
       <article class="who clearfix">
-        <div class="featured-performer" style="width:100%;margin-left: 5%;">
+        <div class="featured-performer">
           <br>
           <h2>
             Featured Performer:
