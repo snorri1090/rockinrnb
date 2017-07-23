@@ -100,6 +100,13 @@
                   <p>This power house of four veteran musicians lay down a groove a mile deep and top it off with great vocals. Their unique mix of original music and well chosen cover songs, expressed in their own way, will keep you captivated! <a href="https://redhouseband.net" target="_blank">https://redhouseband.net</a><p>
                 </div>
               </li>
+              <li>
+                <span class="note"><i class="fa fa-music fa-sm"></i></span>
+                <em>and Special Guest, Michael Wall</em>
+                <div class="drop-down-content" id="red-house">
+                  <p>This power house of four veteran musicians lay down a groove a mile deep and top it off with great vocals. Their unique mix of original music and well chosen cover songs, expressed in their own way, will keep you captivated! <a href="https://redhouseband.net" target="_blank">https://redhouseband.net</a><p>
+                </div>
+              </li>
             </ul>
           </div>
         </div>

@@ -13,6 +13,13 @@ section {
   text-align:center;
 }
 
+a.light {
+  color: #aaccff;
+  &:hover {
+    color: white;
+  }
+}
+
 
 
 /*********************************************
