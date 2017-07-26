@@ -65,7 +65,7 @@
                 <div class="drop-down-content" id="mark-hurwitz-gin-creek">
                   <p>Mark and his band are a hard working South Sound band working clubs, shows, special events and more. A "Knock Out" solid group infused with Blues, Funk, Rock and Jazz. You don't want to miss a note of this group!
                     <br>
-                    <a href="https://www.facebook.com/GinCreekBand/" target="_blank">www.facebook.com/GinCreekBand/k</a><p>
+                    <a href="https://www.facebook.com/GinCreekBand/" target="_blank">www.facebook.com/GinCreekBand</a><p>
                 </div>
               </li>
               <li>
