@@ -5,6 +5,7 @@
   <body >
     <section>
       <article class="main-sponsor">
+        <h1 class="call-out" style="font-size:5em;margin:-20px 0 -5px 0;">We're BACK!</h1>
         <h2>The Lobster Shop Restaurant Presents</h2>
       </article>
         <div class="home-image">
@@ -12,7 +13,7 @@
         </div>
 
 
-      <h2 class="coming-soon" style="margin-bottom: -15px;"> Saturday, August 12, 2017</h2>
+      <h2 class="coming-soon" style="margin-bottom: -15px;"> Saturday, August 18, 2018</h2>
 
       <article class="where">
         <h3>Gig Harbor Sportsman's Club<br>
@@ -26,8 +27,13 @@
       <h1 class="call-out">"Best thing to hit the Harbor this summer!"</h1>
 
       <article class="who clearfix">
+
         <div class="featured-performer">
+          <h1 class="call-out" style="text-align:center;padding:2em;">Bands and ticket outlets to be announced in early June</h1>
+          <!--
           <br>
+
+
           <h2>
             Featured Performer:
           </h2>
@@ -121,6 +127,7 @@
               </li>
             </ul>
           </div>
+          -->
         </div>
 
       </article>
